@@ -61,6 +61,7 @@
 ## Website
 
 - [AllInOneTools](https://allinonetools.net) – A collection of free, privacy-first online tools including calculators, converters, PDF, image, and SEO utilities.
+- [Packrift Packaging Calculators](https://packrift.github.io/packaging-calculators/) - Free browser-based calculators for carton tape yield, stretch film roll yield, pallet cover sizing, label rolls, and mailer-vs-box decisions.
 - [SM.MS](https://sm.ms/) - 优质图床，支持 https
 - [roop.io](https://reep.io/) - 有密码保护的文件分享
 - [BulkPicTools](https://bulkpictools.com/) - 纯浏览器端的批量图片处理工具，支持压缩、格式转换、裁剪等，无上传保护隐私。
