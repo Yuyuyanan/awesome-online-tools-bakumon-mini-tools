@@ -45,6 +45,8 @@
 
 ## Test
 
+- [Mini Tools](https://mini-tools.uk) - Self-recommendation: free multilingual mini tools for UK tax, VAT, mortgage, free image hosting, Markdown image links, PDF tools, and developer utilities.
+
 - [KeyboardTester.click](https://keyboardtester.click/) - Free browser-based hardware testing suite for keyboard, mouse, screen, microphone, webcam, and audio diagnostics. No install or signup.
 - [PageSpeed](https://developers.google.com/speed/pagespeed/) - Analyze your site performance(谷歌网站测速工具)
 
